@@ -1,9 +1,11 @@
 # Track Total Circulating Supply Token Coinmarketcap Coingecko API
 
-[![GET YOUR API](https://cldup.com/dTxpPi9lDf.thumb.png](https://user-images.githubusercontent.com/35589762/227570679-fa2ff75d-9d56-4b9c-90fa-1b98f4cf48a5.png)](https://www.fiverr.com/share/6ero5b)
+[GET YOUR API](https://www.fiverr.com/share/6ero5b)
 
 Have you submitted or going to submit your project on **COINMARKETCAP** and **COINGECKO**.
 Then, you may heard about
+
+[![Fiverr Gig Image](https://user-images.githubusercontent.com/35589762/227572030-4e506ff7-63cf-476b-84ae-d17144bb088a.png)](https://www.fiverr.com/sanjithacks/track-total-circulating-supply-token-coinmarketcap-coingecko-api)
 
 API endpoint that displays ONLY **TOTAL SUPPLY** as a NUMERICAL value
 example:
