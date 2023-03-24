@@ -12,12 +12,16 @@ Then, you may heard about
 API endpoint that displays ONLY **TOTAL SUPPLY** as a NUMERICAL value
 example:
 
-```https://chainz.cryptoid.info/ric/api.dws?q=totalcoins```
+```
+https://chainz.cryptoid.info/ric/api.dws?q=totalcoins
+```
 
 API endpoint that displays ONLY **Circulating Supply** as a numerical value
 example: 
 
-```https://chainz.cryptoid.info/ric/api.dws?q=circulating```
+```
+https://chainz.cryptoid.info/ric/api.dws?q=circulating
+```
 
 CMC and CG ask you for these API endpoint to track your token supply accurately, which help them to verify your project.
 
